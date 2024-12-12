@@ -6,7 +6,6 @@ The Microsoft Defender with Azure project is a coursera-led project by Microsoft
 
 ### Skills Learned
 
-- Creating a Microsoft Azure Lab Environment.
 - Configuring Log Analytics workspaces for Microsoft Defender in the cloud.
 - Manufacturing an environment for Microsoft Defender to protect against threats in the cloud.
 - Putting together a log agent for effective centralization.
