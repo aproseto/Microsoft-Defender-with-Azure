@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Microsoft Defender with Azure project is a coursera-led project by Microsoft to teach about using Azure Services. I will be learning how to consolidate processes into a central hub, accelerate tasks, and reduce oversight risk. By the end of the project I will better understand processes within Azure to securely operate a cloud network.
+The Microsoft Defender with Azure project is a coursera-led project by Microsoft to teach about using Azure Services. I will be learning how to consolidate processes into a central hub, accelerate tasks, and reduce oversight risk. By the end of the project I will better understand Microsoft Defender, Log Queries, and Key Vaults within Azure to securely operate a cloud network.
 
 ### Skills Learned
 
